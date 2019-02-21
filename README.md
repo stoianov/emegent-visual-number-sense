@@ -7,6 +7,8 @@ Emergence of a 'visual number sense' in hierarchical generative models, Stoianov
 
 * DATA (Matlab/Octave) file StoianovZorzi2012_data.mat contains unlabeled binary images and corrisponding labels (in a separate matrix). The latter could be used for further analysis, such as performance measuring and numerosity decoder.
 
+Variables: (1) *data_images*: 2D matrix, the rows of which contain vectorized images of size 30x30 pixels (900 pixels in total). To see an image with index "i", you could use: imagesc(reshape(data_image(i,:),30,30)). (2) *data_labels*: 2D matrix that contains corrisponding labels useful for analysis of the result. The first column contains the numerosity of each image (i.e., corresponding row in the data_images matrix). The second column contains the corresponding cumulative surface. (3) *data_info* : contains the range of numerosity and surface, as well as the image size
+
 * Visualization (Matlab/Octave) script stoianovzorzi2012_converter.m loads and converts the unlabeled training data in StoianovZorzi2012_data.mat into 3D unlabeled training data for deep belief networks, and shows a random image and its parameters.
 
 ##  Author of the code and the data
