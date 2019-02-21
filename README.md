@@ -5,9 +5,9 @@ Emergence of a 'visual number sense' in hierarchical generative models, Stoianov
 
 * This repository includes the data used for the simulations of Stoianov&Zorzi (2012) and a visualization script: 
 
-* DATA: (Matlab/octave data file) StoianovZorzi2012_data.mat containing unlabeled binary images and corrisponding labels (in a separate matrix). The latter could be used for further analysis, such as performance measuring and numerosity decoder.
+* DATA (Matlab/Octave) file StoianovZorzi2012_data.mat contains unlabeled binary images and corrisponding labels (in a separate matrix). The latter could be used for further analysis, such as performance measuring and numerosity decoder.
 
-* Visualization scrpt (Matlab/Octave script): stoianovzorzi2012_converter.m loads and converts the unlabeled training data in StoianovZorzi2012_data.mat into 3D unlabeled training data for deep belief networks, and shows a random image and its parameters.
+* Visualization (Matlab/Octave) script stoianovzorzi2012_converter.m loads and converts the unlabeled training data in StoianovZorzi2012_data.mat into 3D unlabeled training data for deep belief networks, and shows a random image and its parameters.
 
 ##  Author of the code and the data
 
