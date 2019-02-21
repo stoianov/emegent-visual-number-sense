@@ -1,4 +1,4 @@
-# emegent-visual-number-sense
+# emergent-visual-number-sense
 Emergence of a 'visual number sense' in hierarchical generative models, Stoianov &amp; Zorzi, *Nature Neuroscience*, 2012
 
 * Numerosity estimation is phylogenetically ancient and foundational to human mathematical learning, but its computational bases remain controversial. Stoianov & Zorzi, 2012 show for the first time that visual numerosity emerges as a statistical property of images in *deep networks* that learn a hierarchical generative model of the sensory input. Emergent numerosity detectors had response profiles resembling those of monkey parietal neurons and supported numerosity estimation with the same behavioral signature shown by humans and animals.
