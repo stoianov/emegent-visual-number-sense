@@ -25,4 +25,4 @@ Variables: (1) *data_images*: 2D matrix, the rows of which contain 51.200 vector
    Web	  : https://github.com/stoianov
 
 ## Granted permissions:
-To use the image data contained in "StoianovZorzi2012_data.mat" and this script if: (1) citing the article Stoianov, I., and Zorzi, M. (2012). Emergence of a “visual number sense” in hierarchical generative models. *Nature neuroscience* 15, 194–6. and (2) citing the github repository https://github.com/stoianov/emergent-visual-number-sense
+To use the image data contained in "StoianovZorzi2012_data.mat" and this script if: (1) citing the article Stoianov, I., and Zorzi, M. (2012). Emergence of a “visual number sense” in hierarchical generative models. *Nature neuroscience* 15, 194–6. and (2) citing this github repository https://github.com/stoianov/emergent-visual-number-sense
